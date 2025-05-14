@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sidalaneta.wbuyy.com/sidalaneta.txt
